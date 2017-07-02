@@ -1,0 +1,39 @@
+{
+  "name": "generator-adoyle",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "https://github.com/adoyle-h/code-template",
+  "author": {
+    "name": "ADoyle",
+    "email": "adoyle.h@gmail.com",
+    "url": "https://github.com/adoyle-h"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [],
+  "devDependencies": {
+    "yeoman-test": "^1.6.0",
+    "yeoman-assert": "^3.0.0",
+    "nsp": "^2.6.3",
+    "eslint": "^4.1.0",
+    "jest": "^19.0.2",
+    "jest-cli": "^20.0.0"
+  },
+  "dependencies": {
+    "yeoman-generator": "^1.0.0",
+    "chalk": "^1.1.3",
+    "yosay": "^2.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "scripts": {
+    "prepublish": "nsp check",
+    "pretest": "eslint . --fix",
+    "test": "jest"
+  },
+  "repository": "git@github.com:adoyle-h/code-template.git",
+  "license": "BSD-3-Clause"
+}

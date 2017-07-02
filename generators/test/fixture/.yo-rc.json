@@ -1,0 +1,14 @@
+{
+    "generator-adoyle": {
+        "readme": {
+            
+        },
+        "license": {
+            "sinceYear": 2017,
+            "author": "ADoyle",
+            "license": "Apache"
+        },
+        "requirejs": true,
+        "coffee": true
+    }
+}

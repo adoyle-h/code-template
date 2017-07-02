@@ -1,0 +1,7 @@
+![Node Version][Node Version Image]
+[![Npm Package Version][Npm Package Version Image]][Npm Package Version LINK]
+[![License][License Image]][License LINK]
+![NodeJS Package Dependencies][NodeJS Package Dependencies Link]
+[![Build Status][Build Status Image]][Build Status Link]
+[![Code Climate][Code Climate Image]][Code Climate Link]
+[![Test Coverage][Test Coverage Image]][Test Coverage Link]
