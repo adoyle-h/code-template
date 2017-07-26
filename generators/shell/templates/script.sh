@@ -4,12 +4,14 @@
 # Filename: <%- filename %>.sh
 # Description: <%- description %>
 # Author: <%- author %> <<%- email %>>
-# LICENSE: <%- license %>
+# License: <%- license %>
 # First Created: <%- createdAt %>
 # Last Modified: <%- modifiedAt %>
 # Version: <%- version %>
 # Bash Version: <%- bashVersion %>
 # Source: <%- sourceUrl %>
+# Project: <%- projectUrl %>
+# Inspired by:
 
 
 #######################################################################
